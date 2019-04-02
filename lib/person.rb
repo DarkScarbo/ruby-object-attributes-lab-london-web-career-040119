@@ -4,7 +4,8 @@ class Person
     @name
   end
   
-  def
+  def name=(name)
+    puts @name
   end
   
 end
